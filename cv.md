@@ -1,6 +1,6 @@
 # Alexey Nikitin
 ## Contact info:
-* Phone: +375 29 746 00 83
+* Phone: +375 (29) 746 00 83
 * E-mail: alexnikicin@gmail.com
 * Github: AlexNikicin
 ## Skills:
