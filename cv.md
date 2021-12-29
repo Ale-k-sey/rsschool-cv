@@ -21,4 +21,4 @@
 * RS Shcool
 ## Languages:
 * Deutsch - A2
-* English - A0
+* English - A1
