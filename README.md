@@ -1,1 +1,1 @@
-https:// AlexNikicin.github.io/rsschool-cv/cv
+https://AlexNikicin.github.io/rsschool-cv/cv
