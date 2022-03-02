@@ -1,1 +1,101 @@
+@font-face {
+    font-family: Roboto;
+    src: url("assets/font/Roboto-Thin.ttf");
+}
 
+.main {
+    display: flex;     
+}
+
+.footer {
+    border: 1px solid black;
+}
+
+.nav-list {
+    
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    
+}
+
+.nav-link {
+    padding: 0 15px;
+    line-height: 10px;
+    transition: .3s;
+    
+    text-decoration: none;      
+}
+
+body {
+    font-family:'Roboto';
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+
+
+.my-photo {
+    display: flex;
+    padding: 0 5px;
+    width: 22%;    
+    flex-direction: column;    
+    align-content: space-between;
+}
+
+img {
+    display: flex;
+    align-self: center;
+    width: 50%;    
+}
+
+h1 {
+    font-size: 35px;    
+    text-align: center;
+}
+
+p {
+    
+    line-height: 0.1;
+}
+
+.section-title-contact-info {
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+.all-info {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 50px;
+
+}
+
+
+
+.section-title {
+    padding: 0 10px;
+    font-size: 25px;
+    
+}
+
+.rss-link {    
+    display: flex;
+    width: 100%;
+}
+
+.footer-up {
+   display: flex;
+   justify-content: flex-end;
+}
+
+.gh-link{
+    
+    margin-right: 1.5%;
+}
+
+.year{
+    margin-right: 1.5%;
+}
